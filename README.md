@@ -5,7 +5,8 @@ JS Monorepo to host all the client side code
 - website
 - web app
 - extension
-- native app
+- mobile app (React Native / ??)
+- desktop app (electron / Tauri app)
 
 ## Packages
 - component lib
